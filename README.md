@@ -1,6 +1,6 @@
 # Artificial Intelligence & Machine Learning Workflow Portfolio
 
-Portfolio of all the AI-related projects I worked on at UTK. Mirrored projects originally developed in a private GitHub repository (CECS-AI) to my personal GitHub account for accessible portfolio visibility.
+Portfolio of all the AI-related projects I worked on at UTK. I mirrored projects originally developed in a private GitHub repository (CECS-AI) to my personal GitHub account for accessible portfolio visibility.
 #
 #
 # School GitHub Account: 
