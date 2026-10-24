@@ -3,7 +3,7 @@
 Portfolio of all the AI-related projects I worked on at UTK. Mirrored projects originally developed in a private GitHub repository (CECS-AI) to my personal GitHub account for accessible portfolio visibility.
 #
 #
-# School Github Account: 
+# School GitHub Account: 
 prangara-vols
 
 https://github.com/prangara-vols
