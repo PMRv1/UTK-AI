@@ -10,16 +10,16 @@ https://github.com/prangara-vols
 #
 #
 # Projects:
-# ◉ Project 1 (Real-World Dataset Initialization)
+◉ Project 1 (Real-World Dataset Initialization)
 https://github.com/PMRv1/UTK-AI-Project-1
 
-# ◉ Project 2 (AI-Driven Data Visualization and Modeling)
+◉ Project 2 (AI-Driven Data Visualization and Modeling)
 https://github.com/PMRv1/UTK-AI-Project-2
 
-# ◉ Project 3 (AI-Driven Data Analysis with Prompt Engineering)
+◉ Project 3 (AI-Driven Data Analysis with Prompt Engineering)
 https://github.com/PMRv1/UTK-AI-Project-3
 
-# ◉ Project 4 (Multi-Agent Machine Learning Workflow)
+◉ Project 4 (Multi-Agent Machine Learning Workflow)
 https://github.com/PMRv1/UTK-AI-Project-4
 #
 #
